@@ -16,19 +16,19 @@ To access the application, you can follow the deployment link or download the so
 ## Application Functionality
 
 * Application with show the current day and time at the top of the calendar
-<img src="./assets/date-time.png">
+<img src="./Assets/date-time.png">
 
 * App is presented with timeblocks for standard business hours.
-<img src="./assets/time-business-hour.png">
+<img src="./Assets/time-business-hour.png">
 
 * Each timeblock is indicated by color if it is in the past (gray), present (yellow), future (green).
-<img src="./assets/colored-block.png">
+<img src="./Assets/colored-block.png">
 
 * Each timeblock has text area and a save button to save the information.
-<img src="./assets/text-area-savebtn.png">
+<img src="./Assets/text-area-savebtn.png">
 
 * When the save button is clicked, each events will be saved in the local storage.
-<img src="./assets/local-storage.png">
+<img src="./Assets/local-storage.png">
 
 * Events will continuously show even if the page is refreshed.
-<img src="./assets/refresh-page.gif">
+<img src="./Assets/refresh-page.gif">
